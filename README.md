@@ -1,3 +1,3 @@
 #Game Dev 5 Project
 
-A FPS Unity game with multiplayer thanks to Proton.
+A FPS Unity game with multiplayer thanks to Proton. Thanks Chong Guo
